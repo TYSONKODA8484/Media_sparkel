@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "The Enchanted Forest Adventure",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Book",
+        "title": "The Brave Little Explorer",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Mystery Book",
+        "title": "Mystery of the Lost Treasure",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Fantasy Book",
+        "title": "The Magic of Friendship",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Book",
+        "title": "The Secret Garden of Dreams",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Adventure Book",
+        "title": "Adventures in Rainbow Valley",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Fantasy Book",
+        "title": "The Legend of the Golden Unicorn",
+        "price": 5.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Fantasy Book",
+        "title": "The Whimsical World of Wendel",
+        "price": 4.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Fantasy Book",
+        "title": "Tales from the Starry Sky",
+        "price": 6.49,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Adventure Book",
+        "title": "The Journey to the Hidden Kingdom",
+        "price": 7.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Fantasy Book",
+        "title": "The Magical Tale of Lila the Fairy",
+        "price": 8.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Adventure Book",
+        "title": "The Adventures of Tommy and Timmy",
+        "price": 9.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 13,
+        "name": "Mystery Book",
+        "title": "The Secret of the Ancient Tree",
+        "price": 10.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 14,
+        "name": "Fantasy Book",
+        "title": "The Dreamy World of Lilly and Leo",
+        "price": 3.99,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    },
+    {
+        "id": 15,
+        "name": "Adventure Book",
+        "title": "The Chronicles of the Mystic Island",
+        "price": 4.49,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720210085~exp=1720213685~hmac=16c1f7e5788d33de8360a477ced76a3c4cca34bfd95453093156b2f48f798236&w=740"
+    }
+]
